@@ -45,14 +45,14 @@
     <link href="http://blog.52ddh.com/2021/06/01/hello-world/"/>
     <id>http://blog.52ddh.com/2021/06/01/hello-world/</id>
     <published>2021-06-01T01:56:51.664Z</published>
-    <updated>2021-06-04T12:06:44.798Z</updated>
+    <updated>2021-06-04T14:53:50.643Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h3 id="你好"><a href="#你好" class="headerlink" title="你好"></a>你好</h3><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>官方配置文档：<a href="https://molunerfinn.com/hexo-theme-melody-doc/zh-Hans/quick-start.html">https://molunerfinn.com/hexo-theme-melody-doc/zh-Hans/quick-start.html</a></p><p>新建md文件，内容前面需要声明文件，例如：</p><p><code>title: Windows装机软件清单 date: 2021-06-04 19:55:56 update: 2021-06-04 19:55:56 author: lanhudong urlname: winSoftware categories: 软件 tags: windows软件</code></p><p>随后在根目录执行下方代码，上传至同步至服务器</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;官方配置文档：&lt;a href=&quot;https://molunerfinn.com/hexo-theme-melody-doc/zh-Hans/quick-start.html&quot;&gt;https://molunerfinn.com/hexo-theme-melody-doc/zh-</summary>
       
     
     
@@ -60,7 +60,7 @@
     <category term="杂七杂八" scheme="http://blog.52ddh.com/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/"/>
     
     
-    <category term="life" scheme="http://blog.52ddh.com/tags/life/"/>
+    <category term="Hexo 使用说明" scheme="http://blog.52ddh.com/tags/Hexo-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/"/>
     
   </entry>
   
