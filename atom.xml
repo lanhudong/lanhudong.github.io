@@ -6,7 +6,7 @@
   <link href="http://blog.52ddh.com/atom.xml" rel="self"/>
   
   <link href="http://blog.52ddh.com/"/>
-  <updated>2021-07-13T07:57:15.024Z</updated>
+  <updated>2021-07-13T09:52:23.038Z</updated>
   <id>http://blog.52ddh.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://blog.52ddh.com/2021/07/13/hello-world/"/>
     <id>http://blog.52ddh.com/2021/07/13/hello-world/</id>
     <published>2021-07-13T04:57:41.509Z</published>
-    <updated>2021-07-13T07:57:15.024Z</updated>
+    <updated>2021-07-13T09:52:23.038Z</updated>
     
-    <content type="html"><![CDATA[<p>官方配置文档：<a href="https://molunerfinn.com/hexo-theme-melody-doc/zh-Hans/quick-start.html">https://molunerfinn.com/hexo-theme-melody-doc/zh-Hans/quick-start.html</a></p><p>新建md文件，内容前面需要声明文件，例如：</p><p><code>title: Windows装机软件清单 date: 2021-06-04 19:55:56 update: 2021-06-04 19:55:56 author: lanhudong urlname: winSoftware categories: 软件 tags: windows软件</code></p><p>随后在根目录执行下方代码，上传至同步至服务器</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure><h2 id="Hello-World-ABCcDDEEF"><a href="#Hello-World-ABCcDDEEF" class="headerlink" title="Hello World ABCcDDEEF"></a>Hello World ABCcDDEEF</h2><h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2>]]></content>
+    <content type="html"><![CDATA[<p>官方配置文档：<a href="https://molunerfinn.com/hexo-theme-melody-doc/zh-Hans/quick-start.html">https://molunerfinn.com/hexo-theme-melody-doc/zh-Hans/quick-start.html</a></p><p>新建md文件，内容前面需要声明文件，例如：</p><p><code>title: Windows装机软件清单 date: 2021-06-04 19:55:56 update: 2021-06-04 19:55:56 author: lanhudong urlname: winSoftware categories: 软件 tags: windows软件</code></p><p>随后在根目录执行下方代码，上传至同步至服务器</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure><h2 id="Hello-World-ABCcDDEEF"><a href="#Hello-World-ABCcDDEEF" class="headerlink" title="Hello World ABCcDDEEF"></a>Hello World ABCcDDEEF</h2><h2 id="测试888"><a href="#测试888" class="headerlink" title="测试888"></a>测试888</h2>]]></content>
     
     
       
