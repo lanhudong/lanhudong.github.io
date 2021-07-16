@@ -1,3 +1,12 @@
+title: Windows装机软件清单
+date: 2021-07-16 19:55:56
+update: 2021-07-16 19:55:56
+author: lanhudong
+urlname: winSoftware
+categories: 软件
+tags: windows软件
+
+---
 - [浏览器](#浏览器)
   - [👍Chrome浏览器](#chrome浏览器)
   - [Edge浏览器](#edge浏览器)
