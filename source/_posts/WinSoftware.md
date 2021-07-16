@@ -1,13 +1,3 @@
-title: Windows装机软件清单
-date: 2021-06-04 19:55:56
-update: 2021-06-04 19:55:56
-author: lanhudong
-urlname: winSoftware
-categories: 软件
-tags: windows软件
-
----
-
 - [浏览器](#浏览器)
   - [👍Chrome浏览器](#chrome浏览器)
   - [Edge浏览器](#edge浏览器)
@@ -37,6 +27,7 @@ tags: windows软件
   - [f.lux](#flux)
   - [Ninite](#ninite)
   - [SpaceSniffer](#spacesniffer)
+  - [PandaOCR](#pandaocr)
 - [音乐播放](#音乐播放)
   - [👍洛雪音乐](#洛雪音乐)
   - [Listen1](#listen1)
@@ -61,6 +52,7 @@ tags: windows软件
   - [Bandizip](#bandizip)
   - [Peazip](#peazip)
   - [Riot图片压缩](#riot图片压缩)
+  - [小丸工具箱](#小丸工具箱)
 - [输入法](#输入法)
   - [手心输入法](#手心输入法)
   - [卡饭输入法](#卡饭输入法)
@@ -77,9 +69,11 @@ tags: windows软件
   - [Honeyview](#honeyview)
   - [XnConvert](#xnconvert)
   - [ImageTuner](#imagetuner)
+  - [👍PicGo](#picgo)
   - [Paint_net](#paint_net)
 - [笔记软件](#笔记软件)
   - [👍Notion](#notion)
+  - [wolai](#wolai)
   - [印象笔记](#印象笔记)
   - [幕布](#幕布)
 - [下载器](#下载器)
@@ -248,6 +242,12 @@ Windows护眼软件，可以自动调整您的计算机屏幕亮度以适应当�
 
 SpaceSniffer 是一款免费软件和便携式工具应用程序，可让您了解文件夹和文件在磁盘上的结构。通过使用树状图可视化布局，可以立即了解大文件夹和文件在设备上的位置。
 
+### PandaOCR
+
+开源地址：<https://github.com/miaomiaosoft/PandaOCR>
+
+这是一款文字识别工具，多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码
+
 ## 音乐播放
 
 ### 👍洛雪音乐
@@ -372,6 +372,12 @@ Bandizip 是一个强大的多功能压缩文件管理工具，可提供高速�
 
 RIOT 有一个易于使用的界面，可以实时将原始图像与优化后的图像进行比较，并立即查看生成的文件大小，图像优化器轻巧、快速且易于使用，但对于高级用户来说功能强大。
 
+### 小丸工具箱
+
+官网：<https://maruko.appinn.me/>
+
+视频压缩神器，小丸工具箱是一款用于处理音视频等多媒体文件的软件，是一款x264、ffmpeg等命令行程序的图形界面，它的目标是让视频压制变得简单、轻松。
+
 ## 输入法
 
 ### 手心输入法
@@ -453,6 +459,12 @@ XnConvert是一款快速，简单易用，功能强大且免费的跨平台批�
 
 Image Tuner是一款免费的批量图像调整大小，重命名，转换和水印软件，具有超直观和直观的界面。[使用教程](https://mp.weixin.qq.com/s?__biz=MzUxNDkyMzI4Mg==&mid=2247484853&idx=1&sn=cbaf2a97f978bd0e85dca65d601f0835&chksm=f9bfcbc8cec842de0a79bfc4262d93159ed23df74c443ce60dd6fbcb8d8b78bc7e86d04a6f94&token=1843722584&lang=zh_CN#rd)
 
+### 👍PicGo
+
+开源地址：<https://github.com/Molunerfinn/PicGo>
+
+一个用于快速上传图片并获取图片网址链接的工具
+
 ### Paint_net
 
 官网：<https://www.getpaint.net/>
@@ -465,6 +477,12 @@ Image Tuner是一款免费的批量图像调整大小，重命名，转换和水
 官网：<https://www.notion.so/desktop>
 
 这款笔记软件基本支持全平台的使用，我也刚开始接触这款软件，不过这个软件和其他笔记软件比起来，的确有不一样的地方，自定义程度极高，是一款高效的笔记软件之一，缺点是只支持英文。
+
+### wolai
+
+官网：<https://www.wolai.com/>
+
+可以理解为国内版的Notion，也挺不错的。
 
 ### 印象笔记
 
