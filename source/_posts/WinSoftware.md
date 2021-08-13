@@ -1,6 +1,6 @@
 title: Windows装机软件清单
-date: 2021-06-04 19:55:56
-update: 2021-06-04 19:55:56
+date: 2021-08-12 19:55:56
+update: 2021-08-12 19:55:56
 author: lanhudong
 urlname: winSoftware
 categories: 软件
@@ -92,6 +92,7 @@ tags: windows软件
 - [下载器](#下载器)
   - [IDM](#idm)
   - [NDM](#ndm)
+  - [X雷](#x雷)
 - [安卓模拟器](#安卓模拟器)
   - [👍蓝叠（bluestacks）](#蓝叠bluestacks)
 
@@ -546,6 +547,12 @@ nternet 下载管理器 (IDM) 是一种将下载速度提高多达 5 倍、恢�
 官网：<https://www.neatdownloadmanager.com/index.php/en/>
 
 Neat Download Manager 是一款免费的 Internet 下载管理器。
+
+### X雷
+
+官网：<https://www.xunlei.com/>
+
+一个支持ed2k链接的下载器~
 
 ## 安卓模拟器
 
